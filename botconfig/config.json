@@ -1,0 +1,23 @@
+{
+  "token": "",
+  "prefix": "-",
+  "ksoftapi": "",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+         "id": "Main",
+    "host": "lava.link",
+    "port": 80,
+    "pass": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "de774574fcec4bb6bf05baefcb78356f",
+    "clientID": "0114de240740408c906dc3fa4da7eece"
+  }
+
+}
